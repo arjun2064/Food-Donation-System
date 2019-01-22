@@ -1,2 +1,2 @@
-# Food-Management-System
+# Food-Donation-System
 It is a online Food providing software software which connects the people in need with deed
