@@ -1,2 +1,2 @@
 # Food-Donation-System
-It is a online Food providing software software which connects the people in need with deed
+Software Platform for multi role-user to log in to request food, respond to food request and update delivery status
